@@ -415,7 +415,7 @@ This screenshot shows the Apache log output used to verify web server activity.
 
 This screenshot shows the configured Apache Virtual Host.
 
-![Virtual Host](screenshots/virtual%20host.png)
+![Virtual Host](screenshots/Virtual%20host.png)
 
 ### TLS Certificate and Key Setup
 
